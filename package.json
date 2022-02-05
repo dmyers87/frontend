@@ -22,7 +22,7 @@
     "Alex MacArthur <alex.macarthur@daveramsey.com> (https://ramseyinhouse.com/)"
   ],
   "devDependencies": {
-    "lerna": "^3.22.1"
+    "lerna": "^4.0.0"
   },
   "scripts": {
     "release": "yarn && yarn run lerna version --no-git-tag-version"
